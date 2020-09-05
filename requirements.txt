@@ -1,0 +1,6 @@
+Django==3.0.8
+PyMySQL==0.10.0
+
+black==19.10b0
+isort==5.0.7
+pre-commit==2.7.1
