@@ -15,5 +15,9 @@ $ make createsuperuser
 
 # ログインする
 http://localhost:8000/admin/
+
+# pre-commit
+$ pip intall pre-commit
+$ pre-commit install
 ```
 
