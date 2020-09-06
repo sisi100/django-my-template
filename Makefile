@@ -4,6 +4,9 @@ build:
 docker-up:
 	docker-compose up -d
 
+restart:
+    docker-compose restart web
+
 log:
 	docker-compose logs -f web
 
