@@ -2,7 +2,7 @@ build:
 	docker-compose build
 
 docker-up:
-	docker-compose up -d
+	docker-compose up
 
 restart:
 	docker-compose restart web
