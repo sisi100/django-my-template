@@ -30,6 +30,7 @@ DEBUG = True
 # Application definition
 
 INSTALLED_APPS = [
+    "hello_drf.apps.HelloDrfConfig",
     "rest_framework",
     "django.contrib.admin",
     "django.contrib.auth",
